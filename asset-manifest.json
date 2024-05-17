@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "./https://meghamadhu7.github.io/Website/static/css/main.74108f7f.css",
+    "main.js": "./https://meghamadhu7.github.io/Website/static/js/main.001b1d6b.js",
+    "static/js/453.43db80c1.chunk.js": "./https://meghamadhu7.github.io/Website/static/js/453.43db80c1.chunk.js",
+    "index.html": "./https://meghamadhu7.github.io/Website/index.html",
+    "main.74108f7f.css.map": "./https://meghamadhu7.github.io/Website/static/css/main.74108f7f.css.map",
+    "main.001b1d6b.js.map": "./https://meghamadhu7.github.io/Website/static/js/main.001b1d6b.js.map",
+    "453.43db80c1.chunk.js.map": "./https://meghamadhu7.github.io/Website/static/js/453.43db80c1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.74108f7f.css",
+    "static/js/main.001b1d6b.js"
+  ]
+}
