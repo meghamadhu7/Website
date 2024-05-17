@@ -10,11 +10,10 @@ import Wear from '../src/Pages/Wear';
 import Dress from '../src/Pages/Dress';
   const router = createBrowserRouter([
 
-
-   {
-        path: "/",
-        element: <App/>,
-   },
+    {
+      path: "/",
+      element: <App/>,
+ },
     {
         path: "about",
         element: <Aboutpage/>
