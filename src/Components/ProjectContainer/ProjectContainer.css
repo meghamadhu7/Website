@@ -1,0 +1,29 @@
+
+.img {
+    width: 200px ;
+    text-align: center;
+    padding: 25px 15px;
+    box-shadow: 20px 20px 34px rgba(0,0,0,0.3);
+    border :1px solid #cce7de;
+    border-radius: 4px;
+    margin: 15px 0;
+    position: relative;
+    width: 100%;
+    margin-bottom: 10px;
+
+    
+}
+.img:hover{
+    box-shadow: 20px 20px 54px rgba(70,62,221,0.1);
+}
+h1{
+    text-align: center;
+}
+
+.feature{
+    padding: 10px 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  
+}

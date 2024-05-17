@@ -1,0 +1,24 @@
+.About1{
+    text-align: center;
+    padding: 10px 15px;
+    box-shadow: 20px 20px 34px rgba(0,0,0,0.3);
+    padding: 40px;
+    border-radius: 4px;
+    margin: 15px 0;
+    position: relative;
+    background-color: lightpink;
+    color: black;
+    height: 800px;
+
+    
+}
+h1{
+    padding: 20px;
+
+
+}
+.class{
+    width: 350px;
+    text-align: justify;
+    margin-left: 400px;
+}

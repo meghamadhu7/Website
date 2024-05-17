@@ -1,0 +1,38 @@
+.fe-box {
+    
+    text-align: center;
+    padding: 10px 15px;
+    box-shadow: 20px 20px 34px rgba(0,0,0,0.3);
+    
+    border-radius: 4px;
+    margin: 15px 0;
+    position: relative;
+}
+.fe-box:hover {
+    background-color: #f9004d;
+}
+.feature{
+    padding: 20px 40px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+h1{
+    padding: 20px;
+
+}
+h6{
+    display: inline-block;
+    padding: 10px;
+    line-height: 2;
+    border-radius: 4px;
+    color: black;
+    background-color: white;
+    font-size: 15px;
+}
+h6 :hover{
+    background-color: white;
+     
+}
+
+
